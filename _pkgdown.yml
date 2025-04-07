@@ -1,0 +1,15 @@
+url: https://adrbmdns.github.io/BDSITalk2/
+template:
+  bootstrap: 5
+  bootswatch: flatly
+
+navbar:
+  structure:
+    left:
+      - home
+      - reference
+      - articles
+      - news
+    right:
+      - github
+
