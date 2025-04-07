@@ -1,9 +1,9 @@
-pandoc: '3.2'
+pandoc: 3.1.11
 pkgdown: 2.1.1
 pkgdown_sha: ~
 articles:
   My_Tutorial_1: My_Tutorial_1.html
-last_built: 2025-04-07T05:25Z
+last_built: 2025-04-07T05:34Z
 urls:
   reference: https://adrbmdns.github.io/BDSITalk2/reference
   article: https://adrbmdns.github.io/BDSITalk2/articles
